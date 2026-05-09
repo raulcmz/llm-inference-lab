@@ -14,7 +14,6 @@ Main objectives:
 - Benchmark latency and throughput
 - Analyze TTFT and TPOT metrics
 - Explore real-world LLMOps practices
-- Build a strong public portfolio project
 
 ---
 
