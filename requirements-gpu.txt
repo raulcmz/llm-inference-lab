@@ -1,0 +1,10 @@
+vllm==0.20.1
+torch==2.11.0
+transformers==5.8.0
+accelerate==1.13.0
+huggingface-hub==1.14.0
+numpy==2.3.4
+pandas==2.3.3
+matplotlib==3.10.7
+requests==2.32.5
+rich==14.2.0
